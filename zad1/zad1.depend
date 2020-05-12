@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589322120 source:c:\users\blaze\documents\cpp\zad1\main.cpp
+	<iostream>
+	<fstream>
+
+1589323108 source:c:\users\blaze\documents\cpp\zad1\main2.cpp
+	<iostream>
+	<fstream>
+
